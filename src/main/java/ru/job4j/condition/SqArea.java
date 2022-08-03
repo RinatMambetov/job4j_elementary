@@ -13,5 +13,7 @@ public class SqArea {
         System.out.println("p = 4, k = 1, square = " + result1);
         double result2 = SqArea.square(6, 2);
         System.out.println("p = 6, k = 2, square = " + result2);
+        double result3 = SqArea.square(10, 3);
+        System.out.println("p = 10, k = 3, square = " + result3);
     }
 }
